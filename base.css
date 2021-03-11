@@ -7,14 +7,14 @@
 
 /* Variables */
 :root {
-  --theme-version: "1.5";
-  --main-color: #16356d;
-  --hover-color: #1c4faf;
+  --theme-version: "1.0";
+  --main-color: #7ba8e0;
+  --hover-color: #7ba8e0;
   --online: #43b581;
   --idle: #faa61a;
   --dnd: #f04747;
   --offline: #636b75;
-  --invisible: #747f8d;
+  --invisible: #c124fffc;
   --streaming: #643da7;
   --home-color: #eee;
   --home-size: 24px;
